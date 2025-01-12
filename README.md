@@ -7,3 +7,5 @@ The goal of this project is to predict the strength of passwords and classify th
 - `0`: Weak
 - `1`: Medium
 - `2`: Strong
+
+This model preprocesses the password data and extracts features such as length, frequency of lowercase/uppercase characters, digits, and special characters. It also applies Natural Language Processing (NLP) techniques, such as TF-IDF vectorization, to convert password strings into numerical feature vectors FInally it applies a machine learning model (Logistic Regression) to predict password strength.
