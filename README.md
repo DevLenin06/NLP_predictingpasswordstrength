@@ -76,7 +76,7 @@ jupyter notebook NLP_predictingpasswordstrength.ipynb
 - The notebook will train/load the model and include a predict() function for evaluating password strengths.
 
 4. Predict Password Strength
-- Once the notebook has run sucessfully, you can call the predict function locally in a code cell by typing `predict()`. The model will then provide a prompt to enter a password and the model will return the strength of that password. 
+- Once the notebook has run sucessfully, you can call the predict function locally in a code cell by typing `predict()`. The model will then provide a prompt to enter a password and then return the strength of that password. 
 
 
 
